@@ -32,10 +32,4 @@ Semana 1 de Inovacción Inteligencia Artificial
   
 ># SaaS(Software como Servicio)
 ### En este caso el cliente solamente puede hacer uso de un software que se encuentra alojado en la nube
-  
-  ># BackUp 
-### Es una copia de seguridad que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida.
 
-># Networking 
-### Se trata de la construcción de una red de contactos con la finalidad de crear nuevas oportunidades de negocio u otras de carácter laboral.
-   
